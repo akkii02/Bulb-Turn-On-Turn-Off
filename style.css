@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Source+Sans+Pro:wght@200&display=swap');
+body{
+    background-color: rgb(194, 6, 6);
+}
+#intro{
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Carter One', cursive; 
+}
+#intro h1{
+    margin-bottom: 20px;
+}
+button{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 15, 15);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius:14px ;
+    transition: 480ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+img{
+    margin: auto;
+}
